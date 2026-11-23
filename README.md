@@ -4,7 +4,7 @@
 
 ## English
 
-I build software under the atomiXbilişim name. Most of it is business software for small and mid-sized companies: work orders for repair shops, appointment booking, rentals, POS screens, engineering paperwork. I usually take a project from the first conversation with the customer all the way to the live server, and I keep maintaining it after that.
+I've been running my own software company, atomiXbilişim, since 2017. Most of what I build is business software for small and mid-sized companies: work orders for repair shops, appointment booking, rentals, POS screens, engineering paperwork. I usually take a project from the first conversation with the customer all the way to the live server, and I keep maintaining it after that.
 
 Most of my clients are in Türkiye, but I've also worked on projects for companies in Switzerland and Germany.
 
@@ -39,9 +39,13 @@ My products are sold under commercial licenses, so the code itself lives in priv
 
 PHP, MySQL and SQLite on the server, plain JavaScript in the browser, Capacitor for mobile, C# and .NET for Windows tools, Python when the math gets heavy. WordPress when the client needs it.
 
+### Outside of work
+
+I chair the board of [Etkin Pedal Spor Kulübü](http://epsk.org) ([etkinpedal.com](https://etkinpedal.com)), represent [Bisikletliler Derneği](https://www.bisikletliler.org) in [Elazığ](https://bisikletlilerelazig.org) and have been a provincial referee for the Turkish Cycling Federation since 2019. Some of the software above, like the association's member app and the festival registration site, came out of that.
+
 ## Türkçe
 
-atomiXbilişim adı altında yazılım geliştiriyorum. Yaptıklarımın çoğu küçük ve orta ölçekli işletmeler için: servisler için iş emri, randevu, kiralama, satış ekranları, mühendislik evrakı. Bir projeyi genelde müşteriyle ilk görüşmeden canlı sunucuya kadar kendim götürüyorum, sonrasında da bakımını yapıyorum.
+2017'den beri kendi yazılım şirketim atomiXbilişim'i yürütüyorum. Geliştirdiklerimin çoğu küçük ve orta ölçekli işletmeler için: servisler için iş emri, randevu, kiralama, satış ekranları, mühendislik evrakı. Bir projeyi genelde müşteriyle ilk görüşmeden canlı sunucuya kadar kendim götürüyorum, sonrasında da bakımını yapıyorum.
 
 Müşterilerimin çoğu Türkiye'de, ama İsviçre ve Almanya'daki firmalar için de iş yaptım.
 
@@ -75,6 +79,10 @@ Müşterilerimin çoğu Türkiye'de, ama İsviçre ve Almanya'daki firmalar içi
 ### Kullandıklarım
 
 Sunucuda PHP, MySQL ve SQLite; tarayıcıda sade JavaScript; mobilde Capacitor; Windows araçlarında C# ve .NET; hesap ağırlaştığında Python. Müşteri isterse WordPress.
+
+### İş dışında
+
+[Etkin Pedal Spor Kulübü](http://epsk.org)'nün ([etkinpedal.com](https://etkinpedal.com)) yönetim kurulu başkanıyım, [Bisikletliler Derneği](https://www.bisikletliler.org)'nin [Elazığ temsilcisiyim](https://bisikletlilerelazig.org) ve 2019'dan beri Türkiye Bisiklet Federasyonu'nda il hakemliği yapıyorum. Derneğin üye uygulaması ve festival kayıt sitesi gibi bazı yazılımlar da buradan çıktı.
 
 ---
 
