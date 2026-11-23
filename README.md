@@ -45,4 +45,4 @@ PHP · MySQL · SQLite · JavaScript · Capacitor · C# / .NET (WPF, WinForms) �
 
 ## İletişim
 
-iletisim@atomixbilisim.com · [atakanozdal.com.tr](https://www.atakanozdal.com.tr) · [atomixbilisim.com.tr](https://atomixbilisim.com.tr) · [atomixservis.com](https://atomixservis.com)
+iletisim@atomixbilisim.com · [atakanozdal.com.tr](https://www.atakanozdal.com.tr) · [atomixbilisim.com.tr](https://atomixbilisim.com.tr)
