@@ -1,8 +1,8 @@
 ## Merhaba, ben Atakan 👋
 
-*Software developer · SaaS & mobile apps for small businesses · Elazığ, Türkiye*
+*Software developer · SaaS & mobile apps for small businesses · Türkiye*
 
-**atomiXbilişim** (Elazığ) bünyesinde küçük ve orta ölçekli işletmeler için yazılım geliştiriyorum:
+**atomiXbilişim** bünyesinde küçük ve orta ölçekli işletmeler için yazılım geliştiriyorum:
 servis, randevu, kiralama, POS ve mühendislik otomasyonları, mobil uygulamalar ve web siteleri.
 
 Ürünlerimin çoğu ticari olduğu için kaynak kodları gizli depolarda; burada neler yaptığımı görebilirsiniz.
